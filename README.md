@@ -1,4 +1,4 @@
-Olá, sou o Jorge Alberto e estou 🧉 Chimarreando e 💻 codando !!
+Olá, estou sempre 🧉 Chimarreando e 💻 codando !!
 
 Temos <img src="https://img.shields.io/github/stars/jalberto2004/ADVPL.svg"> e <img src="https://img.shields.io/github/watchers/jalberto2004/ADVPL.svg"> do que eu ando fazendo aqui no github com <img src="https://img.shields.io/github/followers/jalberto2004.svg?style=social&label=Follow&maxAge=2592000"> seguidores !!
 </br>
