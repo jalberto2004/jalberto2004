@@ -7,6 +7,7 @@ Temos <img src="https://img.shields.io/github/stars/jalberto2004/ADVPL.svg"> e <
 <img src="https://github-readme-stats.vercel.app/api?username=jalberto2004&theme=blue-green">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalberto2004&theme=blue-green">
 <img src="https://starchart.cc/jalberto2004/ADVPL.svg">
+![Snake animation](https://github.com/jalberto2004/jalberto2004/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
